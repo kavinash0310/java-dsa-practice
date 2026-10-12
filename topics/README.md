@@ -1,6 +1,6 @@
 # Topic roadmap
 
-Use this roadmap to choose a focused practice block. Each topic page lists subtopics and has a table for solutions you add.
+Use this roadmap to choose a focused practice block. Each topic page lists subtopics and tracks problems with links, status, solution files, and complexity. The [LeetCode 150 practice roadmap](../docs/LEETCODE_150_ROADMAP.md) groups the workbook’s full 150-problem set into these topic pages.
 
 ## Data structures and patterns
 

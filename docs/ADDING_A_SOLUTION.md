@@ -30,10 +30,10 @@ Cover the normal case and useful edge cases. Tests should be deterministic and s
 
 ## 4. Update the topic page
 
-Add one row to the relevant table:
+Find the problem’s existing row in its topic page. After the class and test are committed, change `Not started` to `Solved`, link both files in the Solution column, and record the actual time and extra-space complexity of your implementation. For example:
 
 ~~~markdown
-| [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | Hash map | O(n) | O(n) |
+| 05 | 2 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | Solved | [Java](../src/main/java/com/kavinash/dsaprac/arrays/TwoSum.java) · [test](../src/test/java/com/kavinash/dsaprac/arrays/TwoSumTest.java) | O(n) / O(n) |
 ~~~
 
 Use the actual complexity for your implementation.

@@ -7,6 +7,7 @@ This repository is for steady practice and review. Add solutions you have worked
 ## Repository map
 
 - [Topic roadmap](topics/README.md) — data structures, algorithms, and useful Java topics.
+- [LeetCode 150 practice roadmap](docs/LEETCODE_150_ROADMAP.md) — the 90-day problem set, grouped into topic trackers.
 - [Daily progress log](progress/README.md) — lightweight record of attempts, reviews, and weekly takeaways.
 - [How to add a solution](docs/ADDING_A_SOLUTION.md) — the repeatable workflow.
 - [Solution templates](templates/) — copyable notes and test templates.
