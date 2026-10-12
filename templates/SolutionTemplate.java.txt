@@ -1,0 +1,15 @@
+// Copy this into the matching topic package and rename the class and method.
+// Keep the required LeetCode signature when submitting.
+
+package com.kavinash.dsaprac.arrays;
+
+public class ProblemName {
+    /**
+     * Explain the approach in your own words.
+     * Time: O(...)
+     * Extra space: O(...)
+     */
+    public int solve(int[] input) {
+        throw new UnsupportedOperationException("Implement the solution");
+    }
+}

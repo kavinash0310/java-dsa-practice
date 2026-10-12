@@ -1,0 +1,18 @@
+// Copy this into src/test/java with the same package as the solution.
+// Replace the class, method, inputs, and expected values.
+
+package com.kavinash.dsaprac.arrays;
+
+import org.junit.jupiter.api.Test;
+
+import static org.junit.jupiter.api.Assertions.assertEquals;
+
+class ProblemNameTest {
+    @Test
+    void handlesTypicalInput() {
+        ProblemName solution = new ProblemName();
+
+        // Replace with assertions for the problem.
+        assertEquals(0, solution.solve(new int[]{}));
+    }
+}
