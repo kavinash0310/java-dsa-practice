@@ -78,4 +78,4 @@ A meaningful review, test, or correction is useful progress too. There is no nee
 
 ## Current status
 
-This is the starter structure. Add each problem after you have attempted and understood it.
+First recorded solution: [Contains Duplicate](topics/arrays-and-hashing.md). Keep adding problems you have attempted and can explain.
