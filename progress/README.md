@@ -4,7 +4,7 @@ Use this page to track learning, not just accepted submissions. Add a row after 
 
 | Date | Problem | Topic / pattern | Result | What I learned / next review |
 |---|---|---|---|---|
-| 2026-10-12 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Arrays and hashing / HashSet | Solved | `HashSet.add` returns false for an existing value; one pass, O(n) expected time and O(n) space. |
+| 2026-10-12 | [LeetCode 217: Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Arrays and hashing / HashSet | Solved | `HashSet.add` returns false for an existing value; one pass, O(n) expected time and O(n) space. |
 | | | | | |
 
 ## Weekly review
