@@ -17,5 +17,5 @@ Add problems you have attempted and can explain. Link to the original statement 
 
 | Problem | Difficulty | Pattern | Time | Extra space |
 |---|---|---|---|---|
-| [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | HashSet membership | O(n) expected | O(n) |
+| [LeetCode 217: Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | HashSet membership | O(n) expected | O(n) |
 
